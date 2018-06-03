@@ -10,6 +10,8 @@ Instructions: create a new repository called ng-ds-test. Within this repo, creat
 
 5.Now add 29. Is the tree balanced? If not, which rotation needs to be done? (Use the following rotation as an example: rightRotation(30), or leftRotation(10))
 
+
+
 6.Consider the following tree:
 ------5
 ---2-----8
@@ -17,11 +19,16 @@ Instructions: create a new repository called ng-ds-test. Within this repo, creat
 
 Now add 0 to the tree. Which one is the first node to go out of balance?
 
+
 7.How do you fix this node? (Use the following rotation as an example: rightRotation(30), or leftRotation(10))
 
-8.What are the four main steps of mergesort?
 
-9.Say you have a program which handles the login queue to a game server. The game server is able to log in one person every one second. Assume that one second must elapse after a person logs in with an empty queue before they are removed from the queue. Draw the state of the queue at 12:00:06, considering the following sequence of events:
+8.What are the four main steps of mergesort?
+ 
+
+9.Say you have a program which handles the login queue to a game server. The game server is able to log in one person every one second. 
+Assume that one second must elapse after a person logs in with an empty queue before they are removed from the queue. Draw the state of
+ the queue at 12:00:06, considering the following sequence of events:
 
 At 12:00:00 Hades logs in
 At 12:00:00 Ares logs in
